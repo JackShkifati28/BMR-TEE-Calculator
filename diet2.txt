@@ -1,0 +1,10 @@
+
+Gender: Male
+Age: 22 
+Height: 5 feet 11 inches 
+Weight: 180 pounds 
+Activity Level: 3 
+
+Your BMR is 1838.5 calories/day.
+Your TEE is 4136.5 calories/day.
+

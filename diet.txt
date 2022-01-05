@@ -1,0 +1,12 @@
+Activity Level: 2 
+
+
+Gender: Male
+Age: 20 
+Height: 5 feet 7 inches 
+Weight: 165 pounds 
+Activity Level: 2 
+
+Your BMR is 1716.9 calories/day.
+Your TEE is 3021.8 calories/day.
+
