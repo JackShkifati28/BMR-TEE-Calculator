@@ -1,4 +1,4 @@
-# BMR-And-TEE-Calculator
+# BMR/TEE-Calculator
 
  * Description: In this program, we are creating a calculator that
  * would measure how much the Basal Metabolic Rate(BMR) and the Total Energy
